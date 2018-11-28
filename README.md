@@ -1,2 +1,8 @@
-# CS1231Helper
-Collection of practice problems for CS1231
+# Generatable Questions from CS1231
+
+TODO:
+
+- [ ] Euclid's algorithm ?
+- [ ] Simplifying boolean statements?
+- [ ] Prim's, Kruskal's, Djikstra's Algorithm?
+- [ ] Preorder, Postorder, Inorder?
